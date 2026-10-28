@@ -38,7 +38,6 @@ This project demonstrates current sensing, ADC configuration, Embedded C program
 | USART2 RX | PA3, if configured |
 | UART Baud Rate | 115200, if configured |
 
-**Note:** Verify the ADC pin and UART settings against your actual STM32CubeMX configuration. Ensure the sensor output voltage does not exceed the STM32 ADC input voltage limit.
 
 ## Project Implementation
 
